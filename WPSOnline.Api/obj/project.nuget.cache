@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "8o4EW+H0k/dy2FEB9dPZkitiIS+nXB6POtrKGR3HG2ih1kfBMNahMPbUvwfk9piiktPr/iRF5xqOt4Nwx49ElA==",
+  "success": true,
+  "projectFilePath": "D:\\CodeRepositories\\WPSOnline\\WPSOnline.Api\\WPSOnline.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wangzhixiong\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\wangzhixiong\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\wangzhixiong\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.1\\swashbuckle.aspnetcore.6.3.1.nupkg.sha512",
+    "C:\\Users\\wangzhixiong\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.1\\swashbuckle.aspnetcore.swagger.6.3.1.nupkg.sha512",
+    "C:\\Users\\wangzhixiong\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.1\\swashbuckle.aspnetcore.swaggergen.6.3.1.nupkg.sha512",
+    "C:\\Users\\wangzhixiong\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.1\\swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512",
+    "C:\\Users\\wangzhixiong\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.26\\microsoft.netcore.app.runtime.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\wangzhixiong\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.26\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\wangzhixiong\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.26\\microsoft.aspnetcore.app.runtime.win-x64.3.1.26.nupkg.sha512"
+  ],
+  "logs": []
+}
